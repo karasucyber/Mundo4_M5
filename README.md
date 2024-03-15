@@ -18,3 +18,7 @@
 
 ## 7
 ![Captura de tela de 2024-03-15 13-29-31](https://github.com/karasucyber/Mundo4_M5/assets/115439232/b19cea22-09a6-4b00-aee6-b52ab9e1118e)
+
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![aquillae777](profile-3d-contrib/profile-night-view.svg)
